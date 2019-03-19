@@ -32,6 +32,8 @@ getInfo = $ => {
 
 main = async () => {
 
+	console.log("crawling data ...")
+
 	let data = [];
 
 	const body = await doRequest(url);

@@ -7,4 +7,4 @@ Prerequisites
 3. Run `npm install`
 4. Run `node server.js`
 
-Note: this project use url "https://www.thesaigontimes.vn/121624/Cuoc-cach-mang-dau-khi-da-phien.html" to crawler data
+Note: this project use url https://www.thesaigontimes.vn/121624/Cuoc-cach-mang-dau-khi-da-phien.html to crawler data
